@@ -5,6 +5,10 @@ kotlin = "2.2.0"
 tryingKotlin-groupId = "com.trying.kotlin"
 tryingKotlin-version = "1.0.0"
 
+# Kotlin playground module information
+kotlinPlayground-groupId = "com.kotlin.playground"
+kotlinPlayground-version = "1.0.0"
+
 [libraries]
 
 [plugins]

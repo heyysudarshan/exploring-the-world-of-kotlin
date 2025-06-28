@@ -1,3 +1,5 @@
+rootProject.name = "ExploringTheWorldOfKotlin"
+
 @Suppress("UnstableApiUsage")
 pluginManagement {
     repositories {

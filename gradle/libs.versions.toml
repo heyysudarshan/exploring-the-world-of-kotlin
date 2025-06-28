@@ -5,3 +5,4 @@ kotlin = "2.2.0"
 
 [plugins]
 kotlin-compiler = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
+gragle = { id = "io.github.heyysudarshan.gragle" }

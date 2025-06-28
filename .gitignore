@@ -1,8 +1,9 @@
 # Gradle cache folder
 .gradle
 
-# Kotlin cache folder
+# Kotlin cache folder & files
 .kotlin
+kotlin-playground/src/main/kotlin/com/kotlin/playground/KotlinForeground.kt
 
 # Idea configuration folder
 .idea

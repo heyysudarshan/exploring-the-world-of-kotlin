@@ -1,4 +1,5 @@
 [versions]
+# Library and plugin versions
 kotlin = "2.2.0"
 
 # Trying Kotlin module information
@@ -12,5 +13,5 @@ kotlinPlayground-version = "1.0.0"
 [libraries]
 
 [plugins]
-kotlin-compiler = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
 gragle = { id = "io.github.heyysudarshan.gragle" }
+kotlin-compiler = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }

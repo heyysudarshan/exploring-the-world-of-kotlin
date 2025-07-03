@@ -1,18 +1,20 @@
 ### About this repository
 
-My love for the Kotlin programming language is truly pure. I discovered Kotlin in 2023 during my second year of college.
-Previously, I had worked with programming languages like Java, JavaScript, C, and C++, but out of all of them, I found
-the most joy in using Kotlin.
+My love for the Kotlin programming language is truly pure. I discovered Kotlin in 2023 during my
+second year of college. Previously, I had worked with programming languages like Java, JavaScript,
+C, and C++, but out of all of them, I found the most joy in using Kotlin.
 
-This repository contains all the source code I’ve written in Kotlin. It includes code snippets and examples that
-demonstrate how to implement various features in software using Kotlin. Additionally, the repository features a
-multiplatform app and a backend API, showcasing the power and versatility of Kotlin.
+This repository contains all the source code I’ve written in Kotlin. It includes code snippets and
+examples that demonstrate how to implement various features in software using Kotlin. Additionally,
+the repository features a multiplatform app and a backend API, showcasing the power and versatility
+of Kotlin.
 
 ### Project structure
 
-I'm using a multi-module approach to structure this project because it targets multiple platforms: desktop (JVM), iOS (
-native), and Android. In such cases, keeping all the code in a single module isn’t practical. Modularization improves
-reusability and maintainability while keeping the architecture clean, organized, and scalable.
+I'm using a multi-module approach to structure this project because it targets multiple platforms:
+desktop (JVM), iOS (native), and Android. In such cases, keeping all the code in a single module
+isn’t practical. Modularization improves reusability and maintainability while keeping the
+architecture clean, organized, and scalable.
 
 - `/trying-kotlin`: A practice module to explore and understand Kotlin language features through
   hands-on coding. It includes basic examples and experiments for learning purposes.
@@ -21,11 +23,13 @@ reusability and maintainability while keeping the architecture clean, organized,
 
 ### Trying Kotlin
 
-Kotlin is a modern, concise, and expressive language packed with helpful features that make coding more enjoyable and
-efficient. Its clean syntax allows you to turn ideas into real applications quickly.
+Kotlin is a modern, concise, and expressive language packed with helpful features that make coding
+more enjoyable and efficient. Its clean syntax allows you to turn ideas into real applications
+quickly.
 
-This module introduces the essential Kotlin features you need to get started or refresh your knowledge. For a deeper
-understanding, feel free to explore the [official Kotlin documentation](https://kotlinlang.org/docs/home.html).
+This module introduces the essential Kotlin features you need to get started or refresh your
+knowledge. For a deeper understanding, feel free to explore the
+[official Kotlin documentation](https://kotlinlang.org/docs/home.html).
 
 Here's the list of topics I've covered:
 
@@ -76,13 +80,15 @@ Here's the list of topics I've covered:
 42. Use of `destructuring declarations`.
 43. Creating a `extension function` for an existing class.
 44. Creating a `extension property` for an existing class.
+45. Creating `generic` classes in Kotlin to handle values of any type.
 
 ### Thank you 🙌
 
-I'm glad you took the time to explore this repository. I understand the struggle of learning a new language or
-transitioning to a different one. Believe me: you’ll soon start loving Kotlin more than anything.
+I'm glad you took the time to explore this repository. I understand the struggle of learning a new
+language or transitioning to a different one. Believe me: you’ll soon start loving Kotlin more than
+anything.
 
-When I first started, I loved Java and JavaScript. I never thought Kotlin would replace them for me, but here I am. Now,
-every other language feels awkward if it's not Kotlin.
+When I first started, I loved Java and JavaScript. I never thought Kotlin would replace them for me,
+but here I am. Now, every other language feels awkward if it's not Kotlin.
 
 All the best, and welcome to the world of Kotlin. Thank you so much for checking this out!

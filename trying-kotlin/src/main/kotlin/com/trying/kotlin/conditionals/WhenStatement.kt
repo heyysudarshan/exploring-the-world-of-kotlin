@@ -3,7 +3,6 @@ package com.trying.kotlin.conditionals
 @Suppress("KotlinConstantConditions")
 fun main() {
     val trafficLightColor = "Red"
-
     when (trafficLightColor) {
         "Red" -> {
             println(message = "Stop")

@@ -8,5 +8,6 @@ package com.trying.kotlin.nullability
 fun main() {
     var username: String? = null
     username = "sudarshanmhasrup"
+
     println(message = username?.length) // Safe call operator
 }

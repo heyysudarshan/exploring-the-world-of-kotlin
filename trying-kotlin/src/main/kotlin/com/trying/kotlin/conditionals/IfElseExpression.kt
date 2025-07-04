@@ -12,5 +12,6 @@ fun main() {
     } else {
         "Invalid color"
     }
+
     println(message = message)
 }

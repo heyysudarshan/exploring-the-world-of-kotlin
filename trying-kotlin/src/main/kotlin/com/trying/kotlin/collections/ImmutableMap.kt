@@ -6,6 +6,7 @@ fun main() {
         "user2" to "Julie",
         "user3" to "James"
     )
+
     users.forEach {
         println(message = "${it.key}: ${it.value}.")
     }

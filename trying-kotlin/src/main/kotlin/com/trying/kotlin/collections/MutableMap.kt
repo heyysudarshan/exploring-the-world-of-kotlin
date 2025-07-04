@@ -7,8 +7,6 @@ fun main() {
         "user3" to "James"
     )
 
-    users["user4"] = "Jimmy"
-
     users.forEach {
         println("${it.key}: ${it.value}.")
     }

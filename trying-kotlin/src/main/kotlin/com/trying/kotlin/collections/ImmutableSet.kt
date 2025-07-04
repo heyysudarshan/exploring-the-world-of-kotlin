@@ -13,6 +13,7 @@ fun main() {
         "Uranus",
         "Neptune"
     )
+
     println(message = "Solar System Planets:")
     for (planet in solarSystem) {
         println(message = planet)

@@ -55,12 +55,15 @@ private fun displayDivider(bigDivider: Boolean = false) {
 
 fun main() {
     val joel = HumanBeing(name = "Joel", age = 20, gender = "Male")
+
     displayDivider(bigDivider = true)
     joel.displayInformation()
     displayDivider()
+
     joel.walk()
     joel.talk()
     joel.sleep()
+
     displayDivider(bigDivider = true)
     println()
 
@@ -70,11 +73,14 @@ fun main() {
         gender = "Female",
         favouriteActor = "Chris Evans"
     )
+
     displayDivider(bigDivider = true)
     julie.displayInformation()
     displayDivider()
+
     julie.walk()
     julie.talk()
     julie.sleep()
+
     displayDivider(bigDivider = true)
 }

@@ -8,6 +8,7 @@ private class PropertyDelegator(
     private val minValue: Int,
     private val maxValue: Int
 ) : ReadWriteProperty<Any?, Int> {
+
     private var fieldData = initialValue
 
     override fun getValue(

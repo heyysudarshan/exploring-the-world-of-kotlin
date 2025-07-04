@@ -138,8 +138,10 @@ class SmartHome(
 
 fun main() {
     val smartDevice = SmartDevice(name = "Android Phone", category = "Entertainment")
+
     smartDevice.turnOn()
     println(message = "Device status: ${smartDevice.deviceStatus}")
+
     smartDevice.turnOff()
     println(message = "Device status: ${smartDevice.deviceStatus}")
     println()

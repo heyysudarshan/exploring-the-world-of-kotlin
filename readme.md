@@ -80,7 +80,7 @@ Here's the list of topics I've covered:
 42. Use of `destructuring declarations`.
 43. Creating a `extension function` for an existing class.
 44. Creating a `extension property` for an existing class.
-45. Creating `generic` classes in Kotlin to handle values of any type.
+45. Creating a `generic` class in Kotlin to handle values of any type.
 
 ### Thank you 🙌
 

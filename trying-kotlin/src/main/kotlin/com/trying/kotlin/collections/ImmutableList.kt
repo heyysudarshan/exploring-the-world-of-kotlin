@@ -4,8 +4,9 @@ private fun prettyPrint(
     title: String,
     list: List<String>
 ) {
+    val prettyPrintedListString = list.joinToString(separator = ", ")
     print(message = "$title: ")
-    println(message = "${list.joinToString(separator = ", ")}.")
+    println(message = "$prettyPrintedListString.")
 }
 
 fun main() {

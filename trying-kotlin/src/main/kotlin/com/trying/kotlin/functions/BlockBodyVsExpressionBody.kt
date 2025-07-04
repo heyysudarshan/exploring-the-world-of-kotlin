@@ -14,6 +14,7 @@ fun main() {
     greet(greetings = "Good morning!")
 
     val currentAge = 20
+
     println(message = "Your current age is: $currentAge years.")
     println(message = "Your age will be ${increaseAgeBy1Year(age = currentAge)} years in the next year.")
 }

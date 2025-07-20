@@ -66,3 +66,13 @@ Here's the list of topics I've covered:
 43. Creating a `extension function` for an existing class.
 44. Creating a `extension property` for an existing class.
 45. Creating a `generic` class in Kotlin to handle values of any type.
+
+### Thank you 🙌
+
+I'm glad you took the time to explore this repository. I understand the struggle of learning a new language or
+transitioning to a different one. Believe me: you’ll soon start loving Kotlin more than anything.
+
+When I started learning Kotlin, I loved Java and JavaScript. I never thought Kotlin would replace them for me, but here
+I am. Now, every other language feels awkward if it's not Kotlin.
+
+All the best, and welcome to the world of Kotlin. Thank you so much for checking this out!

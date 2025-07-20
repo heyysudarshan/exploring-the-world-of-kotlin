@@ -73,6 +73,5 @@ I'm glad you took the time to explore this repository. I understand the struggle
 transitioning to a different one. Believe me: you’ll soon start loving Kotlin more than anything.
 
 When I started learning Kotlin, I loved Java and JavaScript. I never thought Kotlin would replace them for me, but here
-I am. Now, every other language feels awkward if it's not Kotlin.
-
-All the best, and welcome to the world of Kotlin. Thank you so much for checking this out!
+I am. Now, every other language feels awkward if it's not Kotlin. All the best, and welcome to the world of Kotlin.
+Thank you so much for checking this out!

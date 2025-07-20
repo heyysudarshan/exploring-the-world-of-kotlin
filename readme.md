@@ -1,8 +1,9 @@
-### About this project
+### About this repository
 
-This project is a Gradle project with a bare-minimum setup, which you can extend using the `Gragle plugin`.
+My love for the Kotlin programming language is truly unconditional. I discovered Kotlin in 2023 during my second year of
+college. Previously, I had worked with programming languages like Java, JavaScript, C, and C++, but out of all of them,
+I found the most joy in using Kotlin.
 
-### Learn Gragle
-
-Check out [Gragle learning](https://heyysudarshan.github.io/gragle/learn-gragle) guides to learn how to use Gragle
-effectively.
+This repository contains all the source code I’ve written in Kotlin. It includes code snippets and examples that
+demonstrate how to implement various features in software using Kotlin. Additionally, the repository features a
+multiplatform app and a backend API, showcasing the power and versatility of Kotlin.

@@ -1,4 +1,4 @@
-rootProject.name = "GradleProject"
+rootProject.name = "ExploringTheWorldOfKotlin"
 
 @Suppress("UnstableApiUsage")
 pluginManagement {

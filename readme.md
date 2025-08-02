@@ -17,3 +17,13 @@ Here's the list of topics I've covered:
 7. Using **string templates** to embed variables in strings.
 8. Using **template expressions** to embed expressions inside strings.
 9. Common data types: `String`, `Int`, `Boolean`, `Char`, and `Double`.
+
+### Thank you 🙌
+
+I'm glad you took the time to explore this repository. I understand the struggle of learning a new language or
+transitioning to a different one. Believe me: you’ll soon start loving Kotlin more than anything.
+
+When I first started, I loved Java and JavaScript. I never thought Kotlin would replace them for me, but here I am. Now,
+every other language feels awkward if it's not Kotlin.
+
+All the best, and welcome to the world of Kotlin. Thank you so much for checking this out!

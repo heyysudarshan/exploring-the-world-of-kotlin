@@ -12,3 +12,8 @@ Here's the list of topics I've covered:
 2. Displaying output with `println()`.
 3. Printing multi-line text using triple quotes `""" """`.
 4. Writing single-line and multi-line comments.
+5. Declaring immutable variables with `val`.
+6. Declaring mutable variables with `var`.
+7. Using **string templates** to embed variables in strings.
+8. Using **template expressions** to embed expressions inside strings.
+9. Common data types: `String`, `Int`, `Boolean`, `Char`, and `Double`.

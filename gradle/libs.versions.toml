@@ -1,6 +1,10 @@
 [versions]
 kotlin = "2.1.21"
 
+# trying-kotlin module configuration information
+tryingKotlin-group = "com.trying.kotlin"
+version = "1.0.0"
+
 [libraries]
 
 [plugins]

@@ -7,11 +7,16 @@ plugins {
 group = libs.versions.tryingKotlin.group.get()
 version = libs.versions.tryingKotlin.version.get()
 
-kotlin {
-    jvmToolchain {
+java {
+    toolchain {
         languageVersion = JavaLanguageVersion.of("21")
         vendor.set(JvmVendorSpec.ADOPTIUM)
     }
+    sourceCompatibility = JavaVersion.VERSION_11
+    targetCompatibility = JavaVersion.VERSION_11
+}
+
+kotlin {
     compilerOptions {
         jvmTarget.set(JvmTarget.JVM_11)
     }

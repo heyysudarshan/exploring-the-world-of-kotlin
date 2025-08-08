@@ -1,4 +1,5 @@
 [versions]
+# Library and plugin versions
 kotlin = "2.1.21"
 
 # trying-kotlin module configuration information

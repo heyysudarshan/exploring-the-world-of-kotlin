@@ -10,7 +10,6 @@ version = libs.versions.tryingKotlin.version.get()
 java {
     toolchain {
         languageVersion = JavaLanguageVersion.of("21")
-        vendor.set(JvmVendorSpec.ADOPTIUM)
     }
     sourceCompatibility = JavaVersion.VERSION_21
     targetCompatibility = JavaVersion.VERSION_21

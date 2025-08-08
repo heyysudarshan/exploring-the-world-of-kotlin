@@ -6,6 +6,10 @@ kotlin = "2.1.21"
 tryingKotlin-group = "com.trying.kotlin"
 tryingKotlin-version = "1.0.0"
 
+# kotlin-playground module configuration information
+kotlinPlayground-group = "com.kotlin.playgrround"
+kotlinPlayground-version = "1.0.0"
+
 [libraries]
 kotlin-test = { module = "org.jetbrains.kotlin:kotlin-test", version.ref = "kotlin" }
 

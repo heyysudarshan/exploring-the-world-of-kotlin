@@ -1,10 +1,10 @@
 ### Trying Kotlin
 
 Kotlin is a modern, concise, and expressive language packed with helpful features that make coding more enjoyable and
-efficient. Its clean syntax allows you to turn ideas into real applications quickly.
+efficient. Its clean syntax allows you to write code that is concise, readable, and easy to maintain.
 
-This module introduces the essential Kotlin features you need to get started or refresh your knowledge. For a deeper
-understanding, feel free to explore the [official Kotlin documentation](https://kotlinlang.org/docs/home.html).
+This module lists essential Kotlin features with code snippets to help you get started or refresh your knowledge. For a
+deeper understanding, explore the [official Kotlin documentation](https://kotlinlang.org/docs/home.html).
 
 Here's the list of topics I've covered:
 
@@ -20,10 +20,9 @@ Here's the list of topics I've covered:
 
 ### Thank you 🙌
 
-I'm glad you took the time to explore this repository. I understand the struggle of learning a new language or
-transitioning to a different one. Believe me: you’ll soon start loving Kotlin more than anything.
+I'm glad you checked out this repository. I understand the struggle of learning a new language or transitioning to
+another one. Believe me—you’ll soon start loving Kotlin more than anything.
 
-When I first started, I loved Java and JavaScript. I never thought Kotlin would replace them for me, but here I am. Now,
-every other language feels awkward if it's not Kotlin.
-
-All the best, and welcome to the world of Kotlin. Thank you so much for checking this out!
+When I first started, I loved Java and JavaScript. I never imagined Kotlin would replace them, but here I am. Now, every
+other language feels awkward to me. All the best, and welcome to the world of Kotlin. Thank you so much for checking
+this out!

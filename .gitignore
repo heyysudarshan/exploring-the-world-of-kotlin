@@ -1,11 +1,12 @@
 # Gradle cache folder
 .gradle
 
-# Kotlin cache folder
-.kotlin
-
 # Idea configuration folder
 .idea
+
+# Kotlin cache folder & files
+.kotlin
+kotlin-playground/src/main/kotlin/com/kotlin/playground/FunGround.kt
 
 # Build output folder
 .build

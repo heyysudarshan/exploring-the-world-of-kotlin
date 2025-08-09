@@ -21,7 +21,7 @@ kotlin.compilerOptions {
 }
 
 dependencies {
-
+    implementation(libs.bundles.ktor)
 }
 
 // Custom build directory

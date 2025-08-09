@@ -10,6 +10,10 @@ tryingKotlin-version = "1.0.0"
 kotlinPlayground-group = "com.kotlin.playgrround"
 kotlinPlayground-version = "1.0.0"
 
+# trying-ktor module configuration information
+tryingKtor-group = "com.trying.ktor"
+tryingKtor-version = "1.0.0."
+
 [libraries]
 kotlin-test = { module = "org.jetbrains.kotlin:kotlin-test", version.ref = "kotlin" }
 

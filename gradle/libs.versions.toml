@@ -26,7 +26,7 @@ ktor-server-test-host = { module = "io.ktor:ktor-server-test-host", version.ref 
 logback-classic = { module = "ch.qos.logback:logback-classic", version.ref = "logback" }
 
 [bundles]
-ktor = ["ktor-server-core", "ktor-server-netty", "ktor-server-config-yaml", "ktor-server-test-host"]
+ktor = ["ktor-server-core", "ktor-server-netty", "ktor-server-config-yaml"]
 
 [plugins]
 kotlin-compiler = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }

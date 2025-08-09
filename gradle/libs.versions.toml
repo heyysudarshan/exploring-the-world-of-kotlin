@@ -17,6 +17,7 @@ tryingKtor-version = "1.0.0."
 
 [libraries]
 kotlin-test = { module = "org.jetbrains.kotlin:kotlin-test", version.ref = "kotlin" }
+ktor-server-netty = { module = "io.ktor:ktor-server-netty", version.ref = "ktor" }
 
 [plugins]
 kotlin-compiler = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }

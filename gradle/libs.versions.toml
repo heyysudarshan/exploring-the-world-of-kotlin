@@ -14,6 +14,7 @@ kotlinPlayground-version = "1.0.0"
 # trying-ktor module configuration information
 tryingKtor-group = "com.trying.ktor"
 tryingKtor-version = "1.0.0."
+tryingKtor-mainClass = "io.ktor.server.netty.EngineMain"
 
 [libraries]
 kotlin-test = { module = "org.jetbrains.kotlin:kotlin-test", version.ref = "kotlin" }

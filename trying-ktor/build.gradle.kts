@@ -20,6 +20,10 @@ kotlin.compilerOptions {
     jvmTarget = JvmTarget.JVM_23
 }
 
+application {
+    mainClass = libs.versions.tryingKtor.mainClass.get()
+}
+
 dependencies {
     implementation(libs.bundles.ktor)
 }

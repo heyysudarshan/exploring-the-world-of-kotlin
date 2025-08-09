@@ -27,6 +27,7 @@ application {
 dependencies {
     implementation(libs.logback.classic)
     implementation(libs.bundles.ktor)
+    testImplementation(libs.ktor.server.test.host)
 }
 
 // Custom build directory

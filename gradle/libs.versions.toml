@@ -1,6 +1,7 @@
 [versions]
 # Library and plugin versions
 kotlin = "2.1.21"
+ktor = "3.2.3"
 
 # trying-kotlin module configuration information
 tryingKotlin-group = "com.trying.kotlin"
@@ -19,3 +20,4 @@ kotlin-test = { module = "org.jetbrains.kotlin:kotlin-test", version.ref = "kotl
 
 [plugins]
 kotlin-compiler = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
+ktor = { id = "io.ktor.plugin", version.ref = "ktor" }

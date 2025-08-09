@@ -25,6 +25,7 @@ application {
 }
 
 dependencies {
+    implementation(libs.logback.classic)
     implementation(libs.bundles.ktor)
 }
 

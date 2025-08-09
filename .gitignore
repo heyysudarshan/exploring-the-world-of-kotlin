@@ -11,3 +11,6 @@ kotlin-playground/src/test/kotlin/com/kotlin/playground/FunGroundTests.kt
 
 # Build output folder
 .build
+
+# Local and application properties
+trying-ktor/src/main/resources/application.yaml

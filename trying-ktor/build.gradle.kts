@@ -1,5 +1,6 @@
 plugins {
     alias(libs.plugins.kotlin.compiler)
+    alias(libs.plugins.ktor)
 }
 
 group = libs.versions.tryingKtor.group.get()

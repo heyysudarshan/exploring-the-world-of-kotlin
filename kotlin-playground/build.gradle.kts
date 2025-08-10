@@ -9,15 +9,15 @@ version = libs.versions.kotlinPlayground.version.get()
 
 java {
     toolchain {
-        languageVersion = JavaLanguageVersion.of("21")
+        languageVersion = JavaLanguageVersion.of("23")
     }
-    sourceCompatibility = JavaVersion.VERSION_21
-    targetCompatibility = JavaVersion.VERSION_21
+    sourceCompatibility = JavaVersion.VERSION_23
+    targetCompatibility = JavaVersion.VERSION_23
 }
 
 kotlin {
     compilerOptions {
-        jvmTarget.set(JvmTarget.JVM_21)
+        jvmTarget.set(JvmTarget.JVM_23)
     }
 }
 

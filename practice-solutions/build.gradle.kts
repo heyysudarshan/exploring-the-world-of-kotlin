@@ -19,5 +19,9 @@ kotlin.compilerOptions {
     jvmTarget = JvmTarget.JVM_23
 }
 
+dependencies {
+    testImplementation(libs.kotlin.test)
+}
+
 // Custom build directory
 layout.buildDirectory.set(file(path = "$rootDir/.build/PracticeSolutions"))

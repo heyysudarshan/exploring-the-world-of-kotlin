@@ -4,18 +4,22 @@ kotlin = "2.1.21"
 ktor = "3.2.3"
 logback = "1.5.18"
 
-# trying-kotlin module configuration information
+# trying-kotlin module's configuration information
 tryingKotlin-group = "com.trying.kotlin"
 tryingKotlin-version = "1.0.0"
 
-# kotlin-playground module configuration information
+# kotlin-playground module's configuration information
 kotlinPlayground-group = "com.kotlin.playgrround"
 kotlinPlayground-version = "1.0.0"
 
-# trying-ktor module configuration information
+# trying-ktor module's configuration information
 tryingKtor-group = "com.trying.ktor"
 tryingKtor-version = "1.0.0."
 tryingKtor-mainClass = "io.ktor.server.netty.EngineMain"
+
+# practice-solutions module's configuration information
+practiceSolutions-group = "com.pratice.solutions"
+practiceSolutions-version = "1.0.0"
 
 [libraries]
 kotlin-test = { module = "org.jetbrains.kotlin:kotlin-test", version.ref = "kotlin" }

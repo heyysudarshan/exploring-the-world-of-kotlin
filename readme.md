@@ -20,6 +20,10 @@ Here's the list of topics I've covered:
 
 ### Practice solutions
 
+This module contains all the coding challenges I’ve solved using Kotlin. It starts with very basic programs, which I’ve
+included intentionally. I believe these small programs help you get familiar with the syntax and understanding of the
+language, and then you can gradually increase the challenge level after a certain point.
+
 1. Create a function that takes two numbers as arguments and returns their sum.
    [View solution](https://github.com/heyysudarshan/exploring-the-world-of-kotlin/blob/main/practice-solutions/src/main/kotlin/com/practice/solutions/Program1.kt)
 

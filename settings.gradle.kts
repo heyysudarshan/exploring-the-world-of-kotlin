@@ -37,3 +37,4 @@ dependencyResolutionManagement {
 include(":trying-kotlin")
 include(":kotlin-playground")
 include(":trying-ktor")
+include(":practice-solutions")

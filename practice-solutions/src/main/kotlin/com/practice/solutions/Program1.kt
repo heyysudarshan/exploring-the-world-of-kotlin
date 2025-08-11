@@ -30,6 +30,7 @@ private fun getUserInputs(
         placeholder = "Please enter the second number:",
         errorMessage = "Invalid input! Please enter an integer value."
     ) as Int
+
     onUserInputsReceived(firstNumber, secondNumber)
 }
 
@@ -38,6 +39,6 @@ private fun displayOutput(firstNumber: Int, secondNumber: Int) {
     println("The sum of $firstNumber and $secondNumber is $result.")
 }
 
-private fun addition(firstNumber: Int, secondNumber: Int): Int {
+internal fun addition(firstNumber: Int, secondNumber: Int): Int {
     return firstNumber + secondNumber
 }

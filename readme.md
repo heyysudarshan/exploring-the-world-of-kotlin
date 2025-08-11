@@ -18,6 +18,11 @@ Here's the list of topics I've covered:
 8. Using **template expressions** to embed expressions inside strings.
 9. Common data types: `String`, `Int`, `Boolean`, `Char`, and `Double`.
 
+### Practice solutions
+
+1. Create a function that takes two numbers as arguments and returns their sum.
+   [View solution](https://github.com/heyysudarshan/exploring-the-world-of-kotlin/blob/main/practice-solutions/src/main/kotlin/com/practice/solutions/Program1.kt)
+
 ### Thank you 🙌
 
 I'm glad you checked out this repository. I understand the struggle of learning a new language or transitioning to

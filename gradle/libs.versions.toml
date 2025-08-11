@@ -18,7 +18,7 @@ tryingKtor-version = "1.0.0."
 tryingKtor-mainClass = "io.ktor.server.netty.EngineMain"
 
 # practice-solutions module's configuration information
-practiceSolutions-group = "com.pratice.solutions"
+practiceSolutions-group = "com.practice.solutions"
 practiceSolutions-version = "1.0.0"
 
 [libraries]

@@ -3,6 +3,7 @@
 kotlin = "2.1.21"
 ktor = "3.2.3"
 logback = "1.5.18"
+jetbrainsAnnotations = "26.0.2"
 
 # trying-kotlin module's configuration information
 tryingKotlin-group = "com.trying.kotlin"
@@ -23,6 +24,7 @@ practiceSolutions-version = "1.0.0"
 
 [libraries]
 kotlin-test = { module = "org.jetbrains.kotlin:kotlin-test", version.ref = "kotlin" }
+jetbrains-annotations = { module = "org.jetbrains:annotations", version.ref = "jetbrainsAnnotations" }
 ktor-server-core = { module = "io.ktor:ktor-server-core-jvm", version.ref = "ktor" }
 ktor-server-netty = { module = "io.ktor:ktor-server-netty", version.ref = "ktor" }
 ktor-server-content-negotiation = { module = "io.ktor:ktor-server-content-negotiation", version.ref = "ktor" }

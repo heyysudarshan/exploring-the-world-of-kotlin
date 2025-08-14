@@ -8,6 +8,7 @@ package com.practice.solutions
 
 import com.practice.solutions.model.InputType
 import com.practice.solutions.util.UserInputManager
+import org.jetbrains.annotations.VisibleForTesting
 
 fun main() {
     getUserInputs(
@@ -37,6 +38,7 @@ private fun displayOutput(firstNumber: Int, secondNumber: Int) {
     println("The sum of $firstNumber and $secondNumber is $result.")
 }
 
+@VisibleForTesting
 internal fun addition(firstNumber: Int, secondNumber: Int): Int {
     return firstNumber + secondNumber
 }

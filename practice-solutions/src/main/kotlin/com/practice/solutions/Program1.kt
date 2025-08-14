@@ -21,12 +21,12 @@ fun main() {
 private fun getUserInputs(onUserInputsReceived: (Int, Int) -> Unit) {
     val firstNumber = UserInputManager.getUserInput(
         inputType = InputType.Integer,
-        placeholder = "Please enter the first number:",
+        placeholder = "Please enter the first number",
         errorMessage = "Invalid input! Please enter an integer value."
     ) as Int
     val secondNumber = UserInputManager.getUserInput(
         inputType = InputType.Integer,
-        placeholder = "Please enter the second number:",
+        placeholder = "Please enter the second number",
         errorMessage = "Invalid input! Please enter an integer value."
     ) as Int
 

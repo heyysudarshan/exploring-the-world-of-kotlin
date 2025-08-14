@@ -17,9 +17,7 @@ fun main() {
     )
 }
 
-private fun getUserInputs(
-    onUserInputsReceived: (Int, Int) -> Unit
-) {
+private fun getUserInputs(onUserInputsReceived: (Int, Int) -> Unit) {
     val firstNumber = UserInputManager.getUserInput(
         inputType = InputType.Integer,
         placeholder = "Please enter the first number:",

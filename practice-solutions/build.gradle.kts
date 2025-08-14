@@ -20,6 +20,7 @@ kotlin.compilerOptions {
 }
 
 dependencies {
+    implementation(libs.jetbrains.annotations)
     testImplementation(libs.kotlin.test)
 }
 

@@ -1,3 +1,11 @@
+### About this repository
+
+// Yet to be added
+
+### Project structure
+
+// Yet to be added
+
 ### Trying Kotlin
 
 Kotlin is a modern, concise, and expressive language packed with helpful features that make coding more enjoyable and

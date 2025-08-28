@@ -44,6 +44,11 @@ Here's the list of topics I've covered:
 26. Accessing a nullable variable with the `?.` safe call operator.
 27. Accessing a nullable variable with the `!!` non-null assertion operator.
 28. Using the `?:` Elvis operator to provide a default value when a variable is null.
+29. Creating a lambda function without the `fun` keyword.
+30. Storing a function in a variable using the `::` function reference operator.
+31. Passing a function as an argument to another function.
+32. Using trailing lambda syntax to pass a function as an argument to another function.
+33. Using the `repeat()` higher order function to repeat a block of code a specified number of times.
 
 ### Practice solutions
 

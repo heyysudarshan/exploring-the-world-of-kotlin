@@ -40,6 +40,10 @@ Here's the list of topics I've covered:
 22. Checking if a list contains a specific element using the `in` keyword.
 23. Writing expressions with the `if-else` keyword.
 24. Writing expressions with the `when` keyword.
+25. Declaring nullable variables.
+26. Accessing a nullable variable with the `?.` safe call operator.
+27. Accessing a nullable variable with the `!!` non-null assertion operator.
+28. Using the `?:` Elvis operator to provide a default value when a variable is null.
 
 ### Practice solutions
 

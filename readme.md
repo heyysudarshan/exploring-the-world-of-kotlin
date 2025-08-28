@@ -22,9 +22,15 @@ Here's the list of topics I've covered:
 4. Writing single-line and multi-line comments.
 5. Declaring immutable variables with `val`.
 6. Declaring mutable variables with `var`.
-7. Using **string templates** to embed variables in strings.
+7. Using **string template** to embed variables in strings.
 8. Using **template expressions** to embed expressions inside strings.
 9. Common data types: `String`, `Int`, `Boolean`, `Char`, and `Double`.
+10. Defining a function using the `fun` keyword
+11. Writing a function that returns a value
+12. Creating a function with parameters
+13. Calling a function using named arguments
+14. Defining a function with default parameter values
+15. Implementing two functions: one with a block body and another with an expression body.
 
 ### Practice solutions
 

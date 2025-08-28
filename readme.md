@@ -25,15 +25,21 @@ Here's the list of topics I've covered:
 7. Using **string template** to embed variables in strings.
 8. Using **template expressions** to embed expressions inside strings.
 9. Common data types: `String`, `Int`, `Boolean`, `Char`, and `Double`.
-10. Defining a function using the `fun` keyword
-11. Writing a function that returns a value
-12. Creating a function with parameters
-13. Calling a function using named arguments
-14. Defining a function with default parameter values
+10. Defining a function using the `fun` keyword.
+11. Writing a function that returns a value.
+12. Creating a function with parameters.
+13. Calling a function using named arguments.
+14. Defining a function with default parameter values.
 15. Implementing two functions: one with a block body and another with an expression body.
-16. Iterating in Kotlin using a `for` loop
-17. Iterating in Kotlin using a `while` loop
-18. Iterating in Kotlin using a `do-while` loop
+16. Iterating in Kotlin with a `for` loop.
+17. Iterating in Kotlin with a `while` loop.
+18. Iterating in Kotlin with a `do-while` loop.
+19. Using conditional statements with the `if` keyword.
+20. Using conditional statements with the `if-else` keyword.
+21. Using conditional statements with the `when` keyword.
+22. Checking if a list contains a specific element using the `in` keyword.
+23. Writing expressions with the `if-else` keyword.
+24. Writing expressions with the `when` keyword.
 
 ### Practice solutions
 

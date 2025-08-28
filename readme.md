@@ -31,6 +31,9 @@ Here's the list of topics I've covered:
 13. Calling a function using named arguments
 14. Defining a function with default parameter values
 15. Implementing two functions: one with a block body and another with an expression body.
+16. Iterating in Kotlin using a `for` loop
+17. Iterating in Kotlin using a `while` loop
+18. Iterating in Kotlin using a `do-while` loop
 
 ### Practice solutions
 

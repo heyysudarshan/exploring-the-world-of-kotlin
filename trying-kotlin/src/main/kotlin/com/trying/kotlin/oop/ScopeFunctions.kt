@@ -10,11 +10,11 @@ fun main() {
 
     // Let scope function
     scopeObject.let {
-        print(message = it.name)
+        println(message = it.name)
     }
 
     // Apply scope function
     scopeObject.apply {
-        print(message = name)
+        println(message = name)
     }
 }

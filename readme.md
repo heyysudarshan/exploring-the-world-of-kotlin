@@ -49,6 +49,13 @@ Here's the list of topics I've covered:
 31. Passing a function as an argument to another function.
 32. Using trailing lambda syntax to pass a function as an argument to another function.
 33. Using the `repeat()` higher order function to repeat a block of code a specified number of times.
+34. Defining a class with the `class` keyword.
+35. Creating a data class to store data.
+36. Creating an `enum` class to define a set of constants.
+37. Adding extra functions to an existing class using extension functions.
+38. Adding extra properties to an existing class using extension properties.
+39. Creating a generic class to hold any type of data.
+40. Implementing inheritance using the `open` modifier.
 
 ### Practice solutions
 

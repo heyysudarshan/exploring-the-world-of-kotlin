@@ -56,6 +56,9 @@ Here's the list of topics I've covered:
 38. Adding extra properties to an existing class using extension properties.
 39. Creating a generic class to hold any type of data.
 40. Implementing inheritance using the `open` modifier.
+41. Customizing property accessors using the `get()` and `set()` functions.
+42. Using property delegation to delegate work.
+43. Using scope functions to simplify code.
 
 ### Practice solutions
 

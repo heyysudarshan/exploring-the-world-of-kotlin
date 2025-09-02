@@ -70,6 +70,8 @@ language, and then you can gradually increase the challenge level after a certai
    [View solution](https://github.com/heyysudarshan/exploring-the-world-of-kotlin/blob/main/practice-solutions/src/main/kotlin/com/practice/solutions/Program1.kt)
 2. Write a function that takes an integer minute and converts it to seconds.
    [View solution](https://github.com/heyysudarshan/exploring-the-world-of-kotlin/blob/main/practice-solutions/src/main/kotlin/com/practice/solutions/Program2.kt)
+3. Create a function that takes a number as an argument, increments the number by +1 and returns the result.
+   [View solution](https://github.com/heyysudarshan/exploring-the-world-of-kotlin/blob/main/practice-solutions/src/main/kotlin/com/practice/solutions/Program3.kt)
 
 ### Thank you 🙌
 

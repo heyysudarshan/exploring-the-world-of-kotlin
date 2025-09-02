@@ -19,7 +19,7 @@ private fun getUserInput(): Int {
     return UserInputManager.getUserInput(
         inputType = InputType.Integer,
         placeholder = "Enter a number",
-        errorMessage = "Please enter an integer value."
+        errorMessage = "Invalid input! Please enter an integer value."
     ) as Int
 }
 

@@ -7,7 +7,7 @@ import org.jetbrains.annotations.VisibleForTesting
 /*
     Program: Create a function that takes a number as an argument, increments the number by +1 and returns the result.
     Modified: True.
-    Source: https://edabit.com/challenge/NAQhEoxbofPidLxm9
+    Source: https://edabit.com/challenge/NAQhEoxbofPidLxm9.
  */
 
 fun main() {

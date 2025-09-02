@@ -18,7 +18,7 @@ fun main() {
 private fun getUserInput(): Int {
     return UserInputManager.getUserInput(
         placeholder = "Enter minutes in number",
-        errorMessage = "Invalid",
+        errorMessage = "Invalid input! Please enter an integer value.",
         inputType = InputType.Integer
     ) as Int
 }

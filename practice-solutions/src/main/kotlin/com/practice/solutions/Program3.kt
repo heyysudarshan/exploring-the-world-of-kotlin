@@ -1,14 +1,14 @@
-package com.practice.solutions
-
-import com.practice.solutions.model.InputType
-import com.practice.solutions.util.UserInputManager
-import org.jetbrains.annotations.VisibleForTesting
-
 /*
     Program: Create a function that takes a number as an argument, increments the number by +1 and returns the result.
     Modified: True.
     Source: https://edabit.com/challenge/NAQhEoxbofPidLxm9.
  */
+
+package com.practice.solutions
+
+import com.practice.solutions.model.InputType
+import com.practice.solutions.util.UserInputManager
+import org.jetbrains.annotations.VisibleForTesting
 
 fun main() {
     val userInput = getUserInput()

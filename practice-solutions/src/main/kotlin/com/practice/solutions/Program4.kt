@@ -1,14 +1,14 @@
+/*
+    Program: Write a function that takes the base and height of a triangle and return its area.
+    Modified: True.
+    Source: https://edabit.com/challenge/3CaszbdZYGN4otQD8.
+ */
+
 package com.practice.solutions
 
 import com.practice.solutions.model.InputType
 import com.practice.solutions.util.UserInputManager
 import org.jetbrains.annotations.VisibleForTesting
-
-/*
-    Program: Write a function that takes the base and height of a triangle and return its area.
-    Modified: True.
-    Source: https://edabit.com/challenge/3CaszbdZYGN4otQD8
- */
 
 fun main() {
     getUserInputs { base, height ->

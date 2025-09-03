@@ -74,6 +74,8 @@ language, and then you can gradually increase the challenge level after a certai
    [View solution](https://github.com/heyysudarshan/exploring-the-world-of-kotlin/blob/main/practice-solutions/src/main/kotlin/com/practice/solutions/Program3.kt)
 4. Write a function that takes the base and height of a triangle and return its area.
    [View solution](https://github.com/heyysudarshan/exploring-the-world-of-kotlin/blob/main/practice-solutions/src/main/kotlin/com/practice/solutions/Program4.kt)
+5. Create a function that takes the age in years and returns the age in days.
+   [View solution](https://github.com/heyysudarshan/exploring-the-world-of-kotlin/blob/main/practice-solutions/src/main/kotlin/com/practice/solutions/Program5.kt)
 
 ### Thank you 🙌
 

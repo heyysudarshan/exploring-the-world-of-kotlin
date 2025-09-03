@@ -63,7 +63,6 @@ class Program1Tests {
     fun testPositivePlusZero() {
         val firstNumber = 15
         val secondNumber = 0
-
         val expectedResult = 15
         val actualResult = addition(firstNumber = firstNumber, secondNumber = secondNumber)
 
@@ -74,7 +73,6 @@ class Program1Tests {
     fun testWithLargePositiveNumbers() {
         val firstNumber = Int.MAX_VALUE
         val secondNumber = 0
-
         val expectedResult = Int.MAX_VALUE
         val actualResult = addition(firstNumber = firstNumber, secondNumber = secondNumber)
 
@@ -85,7 +83,6 @@ class Program1Tests {
     fun testWithLargeNegativeNumbers() {
         val firstNumber = Int.MIN_VALUE
         val secondNumber = 0
-
         val expectedResult = Int.MIN_VALUE
         val actualResult = addition(firstNumber = firstNumber, secondNumber = secondNumber)
 
@@ -96,7 +93,6 @@ class Program1Tests {
     fun testOverflowCase() {
         val firstNumber = Int.MAX_VALUE
         val secondNumber = 1
-
         val expectedResult = Int.MIN_VALUE
         val actualResult = addition(firstNumber = firstNumber, secondNumber = secondNumber)
 

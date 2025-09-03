@@ -76,6 +76,8 @@ language, and then you can gradually increase the challenge level after a certai
    [View solution](https://github.com/heyysudarshan/exploring-the-world-of-kotlin/blob/main/practice-solutions/src/main/kotlin/com/practice/solutions/Program4.kt)
 5. Create a function that takes the age in years and returns the age in days.
    [View solution](https://github.com/heyysudarshan/exploring-the-world-of-kotlin/blob/main/practice-solutions/src/main/kotlin/com/practice/solutions/Program5.kt)
+6. Create a function that takes an array containing only numbers and return the first element.
+   [View solution](https://github.com/heyysudarshan/exploring-the-world-of-kotlin/blob/main/practice-solutions/src/main/kotlin/com/practice/solutions/Program6.kt)
 
 ### Thank you 🙌
 

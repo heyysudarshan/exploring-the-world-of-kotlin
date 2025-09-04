@@ -80,6 +80,8 @@ language, and then you can gradually increase the challenge level after a certai
    [View solution](https://github.com/heyysudarshan/exploring-the-world-of-kotlin/blob/main/practice-solutions/src/main/kotlin/com/practice/solutions/Program6.kt)
 7. Create a function that takes voltage and current and returns the calculated power.
    [View solution](https://github.com/heyysudarshan/exploring-the-world-of-kotlin/blob/main/practice-solutions/src/main/kotlin/com/practice/solutions/Program7.kt)
+8. Write a function that converts hours into seconds.
+   [View solution](https://github.com/heyysudarshan/exploring-the-world-of-kotlin/blob/main/practice-solutions/src/main/kotlin/com/practice/solutions/Program8.kt)
 
 ### Thank you 🙌
 

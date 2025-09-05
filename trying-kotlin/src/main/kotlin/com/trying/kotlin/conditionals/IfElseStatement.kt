@@ -1,11 +1,11 @@
 package com.trying.kotlin.conditionals
 
-@Suppress("SameParameterValue", "ConvertTwoComparisonsToRangeCheck")
+@Suppress("SameParameterValue", "ConvertTwoComparisonsToRangeCheck", "LiftReturnOrAssignment")
 private fun checkShopAvailability(hour: Int): String {
-    return if (hour >= 10 && hour <= 17) {
-        "The shop is currently open."
+    if (hour >= 10 && hour <= 17) {
+        return "The shop is currently open."
     } else {
-        "The shop is currently closed."
+        return "The shop is currently closed."
     }
 }
 

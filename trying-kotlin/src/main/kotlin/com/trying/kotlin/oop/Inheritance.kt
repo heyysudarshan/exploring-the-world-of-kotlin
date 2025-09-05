@@ -120,7 +120,6 @@ class SmartHome(val smartTvDevice: SmartTvDevice, val smartLightDevice: SmartLig
 
 fun main() {
     val smartDevice = SmartDevice(name = "Android Phone", category = "Entertainment")
-
     smartDevice.turnOn()
     println(message = "Device status: ${smartDevice.deviceStatus}")
 

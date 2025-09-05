@@ -3,7 +3,9 @@ package com.trying.kotlin.oop
 @Suppress("RedundantGetter")
 private class BroadcastManager {
     var currentChannel = 0
-        get() = field
+        get() {
+            return field
+        }
         set(value) {
             if (value in 0..100) {
                 field = value

@@ -59,6 +59,12 @@ Here's the list of topics I've covered:
 41. Customizing property accessors using the `get()` and `set()` functions.
 42. Using property delegation to delegate work.
 43. Using scope functions to simplify code.
+44. Creating an `immutable` (read-only) list in Kotlin.
+45. Creating a `mutable` list in Kotlin.
+46. Creating an `immutable` (read-only) map in Kotlin.
+47. Creating a `mutable` map in Kotlin.
+48. Creating an `immutable` (read-only) set in Kotlin.
+49. Creating a `mutable` set in Kotlin.
 
 ### Practice solutions
 

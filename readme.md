@@ -65,6 +65,7 @@ Here's the list of topics I've covered:
 47. Creating a `mutable` map in Kotlin.
 48. Creating an `immutable` (read-only) set in Kotlin.
 49. Creating a `mutable` set in Kotlin.
+50. Using `varargs` to pass any number of elements to a function.
 
 ### Practice solutions
 

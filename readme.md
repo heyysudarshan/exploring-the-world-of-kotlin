@@ -82,6 +82,8 @@ language, and then you can gradually increase the challenge level after a certai
    [View solution](https://github.com/heyysudarshan/exploring-the-world-of-kotlin/blob/main/practice-solutions/src/main/kotlin/com/practice/solutions/Program7.kt)
 8. Write a function that converts hours into seconds.
    [View solution](https://github.com/heyysudarshan/exploring-the-world-of-kotlin/blob/main/practice-solutions/src/main/kotlin/com/practice/solutions/Program8.kt)
+9. Create a function that finds the maximum range of a triangle's third edge, where the side lengths are all integers.
+   [View solution](https://github.com/heyysudarshan/exploring-the-world-of-kotlin/blob/main/practice-solutions/src/main/kotlin/com/practice/solutions/Program9.kt)
 
 ### Thank you 🙌
 

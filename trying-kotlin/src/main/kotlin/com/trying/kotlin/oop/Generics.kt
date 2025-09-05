@@ -1,7 +1,9 @@
 package com.trying.kotlin.oop
 
 private class LivingBeing<AnyLivingBeing>(private val livingBeing: AnyLivingBeing) {
-    fun getLivingBeing(): AnyLivingBeing = livingBeing
+    fun getLivingBeing(): AnyLivingBeing {
+        return livingBeing
+    }
 }
 
 private class HumanThing {

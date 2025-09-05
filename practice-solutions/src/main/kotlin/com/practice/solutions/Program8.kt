@@ -1,5 +1,5 @@
 /*
-    Program: Write a function that converts hours into seconds..
+    Program: Write a function that converts hours into seconds.
     Modified: True.
     Source: https://edabit.com/challenge/6AnQqiEjkJdZrWhPS.
  */

@@ -26,7 +26,7 @@ class Program9Tests {
     fun testWithZeroSides() {
         val side1 = 0
         val side2 = 0
-        val expectedResult = (side1 + side2) - 1
+        val expectedResult = (0) - 1
         val actualResult = findMaximumEdgeOfATriangle(side1, side2)
         assertEquals(expectedResult, actualResult)
     }

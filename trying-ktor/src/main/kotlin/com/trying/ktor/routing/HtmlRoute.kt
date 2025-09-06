@@ -4,8 +4,10 @@ import io.ktor.http.*
 import io.ktor.server.application.*
 import io.ktor.server.response.*
 import io.ktor.server.routing.*
+import org.jetbrains.annotations.VisibleForTesting
 
-private val htmlContent = """
+@VisibleForTesting
+internal val htmlContent = """
     <!DOCTYPE html>
     <html lang="en">
     <head>

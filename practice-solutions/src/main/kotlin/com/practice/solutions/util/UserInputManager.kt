@@ -3,11 +3,10 @@ package com.practice.solutions.util
 import com.practice.solutions.model.InputType
 
 internal object UserInputManager {
-
     fun getUserInput(
         inputType: InputType,
         placeholder: String,
-        errorMessage: String
+        errorMessage: String? = null
     ): Any {
         var result: Any
         do {

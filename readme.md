@@ -95,6 +95,8 @@ language, and then you can gradually increase the challenge level after a certai
     [View solution](https://github.com/heyysudarshan/exploring-the-world-of-kotlin/blob/main/practice-solutions/src/main/kotlin/com/practice/solutions/Program10.kt)
 11. Create a function that takes length and width and finds the perimeter of a rectangle.
     [View solution](https://github.com/heyysudarshan/exploring-the-world-of-kotlin/blob/main/practice-solutions/src/main/kotlin/com/practice/solutions/Program11.kt)
+12. Write a function that returns the string "something" joined with a space " " and the given argument a.
+    [View solution](https://github.com/heyysudarshan/exploring-the-world-of-kotlin/blob/main/practice-solutions/src/main/kotlin/com/practice/solutions/Program12.kt)
 
 ### Thank you 🙌
 

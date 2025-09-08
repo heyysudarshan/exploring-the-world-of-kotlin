@@ -1,5 +1,5 @@
 /*
-    Program: Create a function that returns the remainder of the division of two numbers..
+    Program: Create a function that returns the remainder of the division of two numbers.
     Modified: True.
     Source: https://edabit.com/challenge/Q2j5FTFtsk7PdzrQk.
  */

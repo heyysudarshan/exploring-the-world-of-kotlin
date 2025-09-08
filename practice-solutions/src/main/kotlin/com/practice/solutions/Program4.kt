@@ -11,9 +11,11 @@ import com.practice.solutions.util.UserInputManager
 import org.jetbrains.annotations.VisibleForTesting
 
 fun main() {
-    getUserInputs { base, height ->
-        displayOutput(base = base, height = height)
-    }
+    getUserInputs(
+        onUserInputsReceived = { base, height ->
+            displayOutput(base = base, height = height)
+        }
+    )
 }
 
 private fun getUserInputs(onUserInputsReceived: (Int, Int) -> Unit) {

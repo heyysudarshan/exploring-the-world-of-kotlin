@@ -11,9 +11,11 @@ import com.practice.solutions.util.UserInputManager
 import org.jetbrains.annotations.VisibleForTesting
 
 fun main() {
-    getUserInputs { voltage, current ->
-        displayOutput(voltage = voltage, current = current)
-    }
+    getUserInputs(
+        onUserInputReceived = { voltage, current ->
+            displayOutput(voltage = voltage, current = current)
+        }
+    )
 }
 
 private fun getUserInputs(onUserInputReceived: (Int, Int) -> Unit) {

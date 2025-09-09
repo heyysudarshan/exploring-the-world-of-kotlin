@@ -100,6 +100,8 @@ language, and then you can gradually increase the challenge level after a certai
 13. Create a function that takes a number as its only argument and returns true if it's less than or equal to zero,
     otherwise return false.
     [View solution](https://github.com/heyysudarshan/exploring-the-world-of-kotlin/blob/main/practice-solutions/src/main/kotlin/com/practice/solutions/Program13.kt)
+14. Given an n-sided regular polygon n, return the total sum of internal angles (in degrees).
+    [View solution](https://github.com/heyysudarshan/exploring-the-world-of-kotlin/blob/main/practice-solutions/src/main/kotlin/com/practice/solutions/Program14.kt)
 
 ### Thank you 🙌
 

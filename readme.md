@@ -105,6 +105,9 @@ language, and then you can gradually increase the challenge level after a certai
 15. You are counting points for a basketball game, given the amount of 2-pointers scored and 3-pointers scored, find the
     final points for the team and return that value.
     [View solution](https://github.com/heyysudarshan/exploring-the-world-of-kotlin/blob/main/practice-solutions/src/main/kotlin/com/practice/solutions/Program15.kt)
+16. Given two numbers, return true if the sum of both numbers is less than 100. Otherwise, return false.
+    [View solution](https://github.com/heyysudarshan/exploring-the-world-of-kotlin/blob/main/practice-solutions/src/main/kotlin/com/practice/solutions/Program16.kt)
+
 ### Thank you 🙌
 
 I'm glad you checked out this repository. I understand the struggle of learning a new language or transitioning to

@@ -102,7 +102,9 @@ language, and then you can gradually increase the challenge level after a certai
     [View solution](https://github.com/heyysudarshan/exploring-the-world-of-kotlin/blob/main/practice-solutions/src/main/kotlin/com/practice/solutions/Program13.kt)
 14. Given an n-sided regular polygon n, return the total sum of internal angles (in degrees).
     [View solution](https://github.com/heyysudarshan/exploring-the-world-of-kotlin/blob/main/practice-solutions/src/main/kotlin/com/practice/solutions/Program14.kt)
-
+15. You are counting points for a basketball game, given the amount of 2-pointers scored and 3-pointers scored, find the
+    final points for the team and return that value.
+    [View solution](https://github.com/heyysudarshan/exploring-the-world-of-kotlin/blob/main/practice-solutions/src/main/kotlin/com/practice/solutions/Program15.kt)
 ### Thank you 🙌
 
 I'm glad you checked out this repository. I understand the struggle of learning a new language or transitioning to
